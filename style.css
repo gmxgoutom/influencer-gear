@@ -1,0 +1,14 @@
+body{font-family: 'Poppins', sans-serif;
+
+
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    padding-left: 20px;
+    font-weight: 600;
+}
